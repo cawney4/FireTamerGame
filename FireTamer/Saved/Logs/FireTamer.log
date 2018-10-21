@@ -1,0 +1,1009 @@
+﻿Log file open, 10/21/18 16:24:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FireTamer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161385
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.179s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.21-20.24.54:529][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-20.24.54:529][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.21-20.24.54:539][  0]LogHAL: Display: Platform has ~ 8 GB [8516689920 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.21-20.24.54:539][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.21-20.24.54:539][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.21-20.24.54:540][  0]LogInit: Computer: GRENINJA
+[2018.10.21-20.24.54:540][  0]LogInit: User: Connie
+[2018.10.21-20.24.54:540][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.21-20.24.54:540][  0]LogInit: High frequency timer resolution =2.533198 MHz
+[2018.10.21-20.24.54:540][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.21-20.24.54:540][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.21-20.24.54:541][  0]LogMemory: Process Physical Memory: 98.47 MB used, 98.47 MB peak
+[2018.10.21-20.24.54:541][  0]LogMemory: Process Virtual Memory: 84.86 MB used, 84.86 MB peak
+[2018.10.21-20.24.54:541][  0]LogMemory: Physical Memory: 4363.09 MB used,  3759.05 MB free, 8122.15 MB total
+[2018.10.21-20.24.54:541][  0]LogMemory: Virtual Memory: 467.18 MB used,  3759.05 MB free, 134217728.00 MB total
+[2018.10.21-20.24.54:565][  0]LogInit: Using OS detected language (en-US).
+[2018.10.21-20.24.54:565][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.21-20.24.54:566][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.21-20.24.55:026][  0]LogStreaming: Display: Took  0.462s to InitEngineTextLocalization.
+[2018.10.21-20.24.55:027][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.21-20.24.55:120][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.21-20.24.55:120][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.21-20.24.55:323][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-20.24.55:324][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.21-20.24.55:339][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.10.21-20.24.55:339][  0]LogD3D11RHI:       128/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.21-20.24.55:341][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.21-20.24.55:341][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.21-20.24.55:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.21-20.24.55:349][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.21-20.24.55:350][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.21-20.24.55:350][  0]LogWindows: EnumDisplayDevices:
+[2018.10.21-20.24.55:350][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.10.21-20.24.55:350][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.10.21-20.24.55:350][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.10.21-20.24.55:351][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.10.21-20.24.55:351][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2018.10.21-20.24.55:351][  0]LogD3D11RHI:   Driver Version: 10.18.14.4578 (internal:10.18.14.4578, unified:10.18.14.4578)
+[2018.10.21-20.24.55:351][  0]LogD3D11RHI:      Driver Date: 1-4-2017
+[2018.10.21-20.24.55:351][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
+[2018.10.21-20.24.55:361][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.21-20.24.55:370][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.10.21-20.24.55:371][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Intermediate/Shaders/WorkingDirectory/18640/).
+[2018.10.21-20.24.55:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Connie/AppData/Local/Temp/UnrealShaderWorkingDir/E52CD0FA4AE1A574E0D45A9E0A1D6FE0/'.
+[2018.10.21-20.24.55:743][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.21-20.24.55:760][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.21-20.24.55:776][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.21-20.24.55:792][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.21-20.24.55:809][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.21-20.24.55:824][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.21-20.24.55:839][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.21-20.24.55:854][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.21-20.24.55:862][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.24.55:959][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.21-20.24.56:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-20.24.56:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-20.24.56:056][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-20.24.56:056][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-20.24.56:071][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.21-20.24.56:085][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.21-20.24.56:100][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.21-20.24.56:115][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.21-20.24.56:125][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.21-20.24.56:126][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.21-20.24.56:200][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.21-20.24.56:200][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.21-20.24.56:200][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.21-20.24.57:150][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.21-20.24.57:245][  0]LogDerivedDataCache: Loaded boot cache 0.09s 72MB C:/Users/Connie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-20.24.57:245][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Connie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.21-20.24.57:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.21-20.24.57:245][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.21-20.24.57:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.21-20.24.57:246][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.21-20.24.57:266][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.21-20.24.57:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Connie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.21-20.24.57:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.21-20.24.57:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.21-20.24.57:303][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.21-20.24.57:305][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.21-20.24.57:305][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.21-20.24.57:396][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.10.21-20.24.57:770][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-20.24.57:920][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.21-20.24.57:924][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.21-20.24.57:924][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.21-20.24.57:924][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.21-20.24.57:924][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.21-20.24.57:948][  0]LogNetVersion: FireTamer 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 607306547)
+[2018.10.21-20.24.58:617][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.106624 seconds
+[2018.10.21-20.24.58:624][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.21-20.24.58:624][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.21-20.24.58:624][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.21-20.24.59:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.21-20.24.59:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.21-20.24.59:860][  0]SourceControl: Source control is disabled
+[2018.10.21-20.24.59:860][  0]SourceControl: Source control is disabled
+[2018.10.21-20.24.59:862][  0]SourceControl: Source control is disabled
+[2018.10.21-20.24.59:863][  0]SourceControl: Source control is disabled
+[2018.10.21-20.25.00:055][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.21-20.25.00:170][  0]LogOcInput: OculusInput pre-init called
+[2018.10.21-20.25.00:236][  0]LogEngine: Initializing Engine...
+[2018.10.21-20.25.00:237][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-20.25.00:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-20.25.00:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-20.25.00:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-20.25.00:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-20.25.00:514][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.21-20.25.00:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.21-20.25.00:634][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.21-20.25.00:664][  0]LogInit: FAudioDevice initialized.
+[2018.10.21-20.25.00:664][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.21-20.25.01:597][  0]LogDerivedDataCache: Saved boot cache 0.93s 71MB C:/Users/Connie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-20.25.01:598][  0]LogInit: Texture streaming: Enabled
+[2018.10.21-20.25.01:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.21-20.25.01:629][  0]LogInit: Transaction tracking system initialized
+[2018.10.21-20.25.01:649][  0]BlueprintLog: New page: Editor Load
+[2018.10.21-20.25.01:782][  0]LocalizationService: Localization service is disabled
+[2018.10.21-20.25.02:493][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.21-20.25.02:493][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.21-20.25.02:494][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.21-20.25.02:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-20.25.02:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-20.25.02:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-20.25.02:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-20.25.02:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/' took 0.01s
+[2018.10.21-20.25.02:645][  0]SourceControl: Source control is disabled
+[2018.10.21-20.25.02:861][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.21-20.25.03:975][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.21-20.25.04:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.21-20.25.04:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.21-20.25.04:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.21-20.25.04:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.21-20.25.04:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.21-20.25.04:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.21-20.25.04:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.21-20.25.04:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.21-20.25.04:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.21-20.25.04:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.21-20.25.04:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.21-20.25.04:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.21-20.25.04:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.21-20.25.04:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.21-20.25.04:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.21-20.25.05:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.21-20.25.05:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.21-20.25.05:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.21-20.25.05:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.21-20.25.05:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.21-20.25.05:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.21-20.25.05:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.21-20.25.05:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.21-20.25.05:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.21-20.25.06:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.21-20.25.06:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.21-20.25.06:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.21-20.25.06:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.21-20.25.06:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.21-20.25.07:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.21-20.25.08:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.21-20.25.08:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.21-20.25.08:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.21-20.25.08:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.21-20.25.08:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.21-20.25.08:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.21-20.25.08:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.21-20.25.08:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.21-20.25.08:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.21-20.25.08:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.21-20.25.08:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.21-20.25.09:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.21-20.25.09:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.21-20.25.09:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.21-20.25.09:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.21-20.25.09:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.21-20.25.09:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.21-20.25.09:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.21-20.25.09:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.21-20.25.09:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.21-20.25.09:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.21-20.25.12:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.21-20.25.13:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.21-20.25.13:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.21-20.25.13:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.21-20.25.14:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.21-20.25.14:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.21-20.25.16:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.21-20.25.16:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.21-20.25.16:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.21-20.25.16:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.21-20.25.16:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.21-20.25.16:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.21-20.25.16:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.21-20.25.16:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.21-20.25.17:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.21-20.25.17:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.21-20.25.17:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.21-20.25.17:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.21-20.25.17:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.21-20.25.17:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.21-20.25.17:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.21-20.25.17:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.21-20.25.17:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.21-20.25.17:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.21-20.25.17:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.21-20.25.18:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.21-20.25.18:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.21-20.25.18:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.21-20.25.18:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.21-20.25.18:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.21-20.25.18:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.21-20.25.18:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.21-20.25.18:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.21-20.25.18:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.21-20.25.18:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.21-20.25.18:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.21-20.25.18:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.21-20.25.18:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.21-20.25.18:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.21-20.25.19:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.21-20.25.19:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.21-20.25.19:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.21-20.25.19:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.21-20.25.19:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.21-20.25.19:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.21-20.25.19:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.21-20.25.19:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.21-20.25.19:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.21-20.25.19:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.21-20.25.20:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.21-20.25.20:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.21-20.25.20:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.21-20.25.20:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.21-20.25.20:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.21-20.25.20:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.21-20.25.20:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.21-20.25.20:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.21-20.25.20:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.21-20.25.20:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.21-20.25.20:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.21-20.25.20:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.21-20.25.20:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.21-20.25.20:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.21-20.25.20:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.21-20.25.20:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.21-20.25.20:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.21-20.25.20:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.21-20.25.21:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.21-20.25.21:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.21-20.25.21:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.21-20.25.21:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.21-20.25.21:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.21-20.25.21:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.21-20.25.21:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.21-20.25.21:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.21-20.25.21:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.21-20.25.21:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.21-20.25.21:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.21-20.25.21:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.21-20.25.22:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.21-20.25.22:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.21-20.25.22:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.21-20.25.22:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.21-20.25.22:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.21-20.25.22:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.21-20.25.22:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.21-20.25.22:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.21-20.25.22:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.21-20.25.22:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.21-20.25.22:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.21-20.25.22:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.21-20.25.22:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.21-20.25.22:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.21-20.25.22:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.21-20.25.23:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.21-20.25.23:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.21-20.25.23:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.21-20.25.23:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.21-20.25.23:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.21-20.25.23:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.21-20.25.23:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.21-20.25.23:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.21-20.25.23:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.21-20.25.23:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.21-20.25.23:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.21-20.25.23:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.21-20.25.23:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.21-20.25.23:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.21-20.25.23:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.21-20.25.23:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.21-20.25.23:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.21-20.25.23:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.21-20.25.24:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.21-20.25.24:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.21-20.25.24:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.21-20.25.24:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.21-20.25.24:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.21-20.25.25:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.21-20.25.26:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.21-20.25.26:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.21-20.25.27:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.21-20.25.27:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.21-20.25.28:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.21-20.25.29:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.21-20.25.30:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.21-20.25.31:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.21-20.25.32:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.21-20.25.33:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.21-20.25.34:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.21-20.25.34:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.21-20.25.34:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.21-20.25.34:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.21-20.25.34:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.21-20.25.34:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.21-20.25.35:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.21-20.25.35:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.21-20.25.35:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.21-20.25.36:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.21-20.25.36:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.21-20.25.37:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.21-20.25.37:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.21-20.25.37:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.21-20.25.38:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.21-20.25.38:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.21-20.25.39:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.21-20.25.40:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.21-20.25.41:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.21-20.25.42:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.21-20.25.43:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.21-20.25.43:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.21-20.25.44:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.21-20.25.44:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.21-20.25.44:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.21-20.25.44:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.21-20.25.45:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.21-20.25.45:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.21-20.25.45:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.21-20.25.45:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.21-20.25.45:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.21-20.25.45:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.21-20.25.45:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.21-20.25.45:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.21-20.25.46:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.21-20.25.46:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.21-20.25.46:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.21-20.25.46:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.21-20.25.46:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.21-20.25.47:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.21-20.25.47:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.21-20.25.49:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.21-20.25.49:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.21-20.25.49:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.21-20.25.50:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.21-20.25.51:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.21-20.25.53:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.21-20.25.53:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.21-20.25.54:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.21-20.25.55:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.21-20.25.55:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.21-20.25.56:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.21-20.25.56:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.21-20.25.57:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.21-20.25.58:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.21-20.25.59:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.21-20.26.00:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.21-20.26.01:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.21-20.26.02:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.21-20.26.02:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.21-20.26.03:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.21-20.26.04:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.21-20.26.05:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.21-20.26.06:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.21-20.26.07:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.21-20.26.07:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.21-20.26.07:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.21-20.26.07:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.21-20.26.07:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.21-20.26.08:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.21-20.26.08:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.21-20.26.08:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.21-20.26.08:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.21-20.26.08:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.21-20.26.08:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.21-20.26.09:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.21-20.26.09:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.21-20.26.09:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.21-20.26.09:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.21-20.26.09:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.21-20.26.10:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.21-20.26.10:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.21-20.26.11:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.21-20.26.11:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.21-20.26.12:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.21-20.26.12:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.21-20.26.13:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.21-20.26.14:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.21-20.26.15:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.21-20.26.16:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.21-20.26.16:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.21-20.26.18:026][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-20.26.19:559][  0]LogSavePackage: Moving '../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Saved/Floor_400x400D8201A7946C7B67B5F19A48133DD9CAA.tmp' to '../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.21-20.26.19:628][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.21-20.26.19:632][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.21-20.26.19:633][  0]LightingResults: New page: Lighting Build
+[2018.10.21-20.26.19:639][  0]MapCheck: New page: Map Check
+[2018.10.21-20.26.19:639][  0]LightingResults: New page: Lighting Build
+[2018.10.21-20.26.22:604][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.10.21-20.26.22:605][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.10.21-20.26.22:615][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.10.21-20.26.25:957][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.10.21-20.26.25:957][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.10.21-20.26.25:958][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.10.21-20.26.25:958][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.10.21-20.26.25:959][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.10.21-20.26.25:959][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.10.21-20.26.25:959][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.10.21-20.26.25:959][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.10.21-20.26.27:723][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.10.21-20.26.27:723][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.10.21-20.26.27:726][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.10.21-20.26.27:726][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.10.21-20.26.27:726][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.10.21-20.26.27:726][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.10.21-20.26.27:727][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.10.21-20.26.27:727][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.10.21-20.26.27:727][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.10.21-20.26.27:727][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.10.21-20.26.27:727][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.10.21-20.26.28:288][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.10.21-20.26.28:623][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.21-20.26.28:809][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.21-20.26.28:840][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.21-20.26.28:956][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.116ms to complete.
+[2018.10.21-20.26.28:956][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 9.326
+[2018.10.21-20.26.29:026][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.26.29:027][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.26.29:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.26.29:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.26.29:863][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.26.29:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.26.30:000][  0]LogCollectionManager: Loaded 0 collections in 0.004350 seconds
+[2018.10.21-20.26.30:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Saved/Collections/' took 0.01s
+[2018.10.21-20.26.30:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/Developers/Connie/Collections/' took 0.01s
+[2018.10.21-20.26.30:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connie/Desktop/CIS568_GameDesign/FireTamerGame/FireTamer/Content/Collections/' took 0.01s
+[2018.10.21-20.26.30:172][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.21-20.26.30:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0381 seconds. Added 2572 classes and 603 folders.
+[2018.10.21-20.26.30:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.26.30:375][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.26.30:418][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.21-20.26.32:832][  0]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.21-20.26.32:843][  0]LogSlate: Took 0.000651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.21-20.26.32:889][  0]LogSlate: Took 0.013417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.21-20.26.33:220][  0]LogRenderer: Reallocating scene render targets to support 928x436 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-20.26.33:993][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-20.26.34:206][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.26.34:206][  0]LogLoad: (Engine Initialization) Total time: 101.17 seconds
+[2018.10.21-20.26.34:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.21-20.26.34:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.21-20.26.34:890][  2]LogAssetRegistry: Asset discovery search completed in 97.5172 seconds
+[2018.10.21-20.26.34:892][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.21-20.26.34:892][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.10.21-20.28.25:754][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.28.25:850][744]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.28.25:968][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.28.25:968][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.28.26:053][744]PIE: New page: PIE session: FirstPersonExampleMap (Oct 21, 2018, 12:28:26 PM)
+[2018.10.21-20.28.26:053][744]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.21-20.28.26:200][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147391s)
+[2018.10.21-20.28.26:215][744]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.21-20.28.26:216][744]LogPlayLevel: PIE: World Init took: (0.003572s)
+[2018.10.21-20.28.26:217][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.164424s)
+[2018.10.21-20.28.26:270][744]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.21-20.28.26:289][744]LogInit: FAudioDevice initialized.
+[2018.10.21-20.28.26:392][744]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.21-20.28.26:426][744]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.10.21-16.28.26
+[2018.10.21-20.28.26:439][744]LogWorld: Bringing up level for play took: 0.022872
+[2018.10.21-20.28.26:524][744]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.21-20.28.26:525][744]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.752
+[2018.10.21-20.28.26:525][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.29.14:364][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1346.921 Y=-288.925 Z=308.344] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.14:513][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1332.774 Y=-335.464 Z=312.379] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.14:661][ 77]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1303.945 Y=-342.690 Z=310.100] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.14:922][ 84]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1259.274 Y=-363.338 Z=306.410] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.15:401][ 97]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1235.534 Y=-404.887 Z=303.941] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.15:585][102]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1277.405 Y=-354.203 Z=309.359] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.15:809][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1370.296 Y=-335.806 Z=308.006] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.15:991][113]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1349.339 Y=-301.606 Z=309.265] for [FirstPersonProjectile_C]
+[2018.10.21-20.29.16:139][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1345.797 Y=-277.522 Z=309.190] for [FirstPersonProjectile_C]
+[2018.10.21-20.30.03:593][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.30.03:607][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.03:608][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.30.03:667][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.30.03:668][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.03:717][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.30.03:735][472]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.21-20.30.10:643][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.30.10:717][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.30.10:746][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.10:746][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.30.10:747][649]PIE: New page: PIE session: FirstPersonExampleMap (Oct 21, 2018, 12:30:10 PM)
+[2018.10.21-20.30.10:747][649]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.21-20.30.10:813][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065306s)
+[2018.10.21-20.30.10:825][649]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.21-20.30.10:826][649]LogPlayLevel: PIE: World Init took: (0.003536s)
+[2018.10.21-20.30.10:827][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.079352s)
+[2018.10.21-20.30.10:864][649]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.21-20.30.10:886][649]LogInit: FAudioDevice initialized.
+[2018.10.21-20.30.10:922][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.21-20.30.10:925][649]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.10.21-16.30.10
+[2018.10.21-20.30.10:926][649]LogWorld: Bringing up level for play took: 0.002800
+[2018.10.21-20.30.10:940][649]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.166
+[2018.10.21-20.30.10:940][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.14:754][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-20.30.16:258][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.16:259][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.30.16:310][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.30.16:311][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.21-20.30.16:348][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.30.16:364][797]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.21-20.30.31:048][156]LogSlate: Window 'FireTamer - Unreal Editor' being destroyed
+[2018.10.21-20.30.31:048][156]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.30.31:049][156]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.30.31:053][156]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.30.31:053][156]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.30.31:305][157]Cmd: QUIT_EDITOR
+[2018.10.21-20.30.31:853][157]LogExit: Preparing to exit.
+[2018.10.21-20.30.31:988][157]LogExit: Editor shut down
+[2018.10.21-20.30.31:988][157]LogExit: Transaction tracking system shut down
+[2018.10.21-20.30.32:346][157]LogExit: Object subsystem successfully closed.
+[2018.10.21-20.30.32:358][157]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.21-20.30.32:362][157]LogD3D11RHI: Shutdown
+[2018.10.21-20.30.32:362][157]LogD3D11RHI: CleanupD3DDevice
+[2018.10.21-20.30.32:367][157]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.21-20.30.32:390][157]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.10.21-20.30.32:390][157]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.10.21-20.30.32:409][157]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.21-20.30.32:409][157]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.21-20.30.32:409][157]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.21-20.30.32:410][157]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.21-20.30.32:410][157]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.21-20.30.32:411][157]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.21-20.30.32:412][157]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.21-20.30.32:413][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.21-20.30.32:414][157]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.21-20.30.32:415][157]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.21-20.30.32:415][157]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.21-20.30.32:415][157]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.21-20.30.32:415][157]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.21-20.30.33:062][157]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.21-20.30.33:062][157]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.21-20.30.33:062][157]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.21-20.30.33:063][157]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.21-20.30.33:064][157]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.21-20.30.33:107][157]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.21-20.30.33:108][157]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.21-20.30.33:108][157]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.21-20.30.33:108][157]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.21-20.30.33:108][157]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.21-20.30.33:108][157]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.21-20.30.33:109][157]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.21-20.30.33:110][157]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.21-20.30.33:110][157]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.21-20.30.33:111][157]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.21-20.30.33:111][157]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.21-20.30.33:111][157]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.21-20.30.33:334][157]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.21-20.30.33:335][157]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.21-20.30.33:336][157]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.21-20.30.33:339][157]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.21-20.30.33:339][157]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.21-20.30.33:340][157]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.21-20.30.33:341][157]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.21-20.30.33:342][157]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.21-20.30.33:343][157]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.21-20.30.33:343][157]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.21-20.30.33:343][157]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.21-20.30.33:343][157]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.21-20.30.33:343][157]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.21-20.30.33:444][157]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.21-20.30.33:545][157]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.21-20.30.33:545][157]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.21-20.30.33:545][157]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.21-20.30.33:545][157]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.21-20.30.33:546][157]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.21-20.30.33:546][157]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.21-20.30.33:546][157]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.21-20.30.33:549][157]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.21-20.30.33:549][157]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.21-20.30.33:550][157]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.21-20.30.33:550][157]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.21-20.30.33:552][157]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.21-20.30.33:555][157]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.21-20.30.33:555][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.21-20.30.33:556][157]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.21-20.30.33:556][157]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.21-20.30.33:556][157]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.21-20.30.33:556][157]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.21-20.30.33:557][157]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.21-20.30.33:564][157]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.21-20.30.33:564][157]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.21-20.30.33:564][157]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.21-20.30.33:565][157]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.21-20.30.33:565][157]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.21-20.30.33:565][157]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.21-20.30.33:565][157]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.21-20.30.33:566][157]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.21-20.30.33:566][157]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.21-20.30.33:566][157]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.21-20.30.33:566][157]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.21-20.30.33:567][157]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.21-20.30.33:567][157]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.21-20.30.33:567][157]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.21-20.30.33:567][157]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.21-20.30.33:568][157]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.21-20.30.33:568][157]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.21-20.30.33:568][157]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.21-20.30.33:569][157]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.21-20.30.33:569][157]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.21-20.30.33:575][157]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.21-20.30.33:575][157]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.21-20.30.33:575][157]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.21-20.30.33:575][157]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.21-20.30.33:576][157]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.21-20.30.33:576][157]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.21-20.30.33:576][157]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.21-20.30.33:576][157]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.21-20.30.33:577][157]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.21-20.30.33:577][157]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.21-20.30.33:577][157]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.21-20.30.33:577][157]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.21-20.30.33:578][157]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.21-20.30.33:578][157]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.21-20.30.33:578][157]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.21-20.30.33:579][157]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.21-20.30.33:579][157]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.21-20.30.33:579][157]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.21-20.30.33:613][157]LogDerivedDataCache: Shutdown
+[2018.10.21-20.30.33:613][157]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.21-20.30.33:614][157]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.21-20.30.33:614][157]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.21-20.30.33:614][157]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.21-20.30.33:614][157]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.21-20.30.33:615][157]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.21-20.30.33:615][157]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.21-20.30.33:615][157]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.21-20.30.33:615][157]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.21-20.30.33:616][157]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.21-20.30.33:616][157]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.21-20.30.33:616][157]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.21-20.30.33:616][157]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.21-20.30.33:617][157]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.21-20.30.33:617][157]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.21-20.30.33:617][157]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.21-20.30.33:617][157]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.21-20.30.33:617][157]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.21-20.30.33:618][157]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.21-20.30.33:618][157]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.21-20.30.33:618][157]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.21-20.30.33:618][157]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.21-20.30.33:618][157]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.21-20.30.33:621][157]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.21-20.30.33:621][157]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.21-20.30.33:623][157]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.21-20.30.33:623][157]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.21-20.30.33:641][157]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.21-20.30.33:642][157]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.21-20.30.33:642][157]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.21-20.30.33:642][157]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.21-20.30.33:642][157]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.21-20.30.33:643][157]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.21-20.30.33:643][157]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.21-20.30.33:643][157]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.21-20.30.33:643][157]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.21-20.30.33:643][157]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.21-20.30.33:644][157]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.21-20.30.33:644][157]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.21-20.30.33:644][157]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.21-20.30.33:644][157]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.21-20.30.33:644][157]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.21-20.30.33:645][157]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.21-20.30.33:645][157]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.21-20.30.33:645][157]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.21-20.30.33:647][157]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.21-20.30.33:647][157]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.21-20.30.33:653][157]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.21-20.30.33:653][157]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.21-20.30.33:654][157]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73335316-4CAB-DFD7-CD87-AFB01C381021%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=18a8bd0645e22270d0c96db9562a633b%7C3ea49720f23642288b385a89afa1c6e4%7Cc0565b61-383f-4bdd-9f1b-218726e404c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.21-20.30.33:676][157]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.21-20.30.33:678][157]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.21-20.30.33:678][157]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.21-20.30.33:679][157]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.21-20.30.33:680][157]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.21-20.30.33:680][157]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.21-20.30.33:680][157]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.21-20.30.33:681][157]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.21-20.30.33:682][157]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.21-20.30.33:682][157]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.21-20.30.33:682][157]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.21-20.30.33:682][157]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.21-20.30.33:683][157]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.21-20.30.33:689][157]LogExit: Exiting.
+[2018.10.21-20.30.33:725][157]Log file closed, 10/21/18 16:30:33
